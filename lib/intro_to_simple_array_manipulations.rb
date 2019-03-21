@@ -28,5 +28,5 @@ def using_uniq(array)
   array.uniq()
 end
 def flatten(array)
-  array.flatten()
+  flat_array = array.flatten()
 end
